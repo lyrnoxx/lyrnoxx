@@ -1,4 +1,7 @@
 ### Hi there 👋
+interemediate programmer
+cs undergrad
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=lyrnoxx)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **lyrnoxx/lyrnoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
