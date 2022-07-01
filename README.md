@@ -1,6 +1,7 @@
 ### Hi there 👋
 interemediate programmer
 cs undergrad
+looking for internships
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lyrnoxx)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
