@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img src ="https://github-readme-stats.vercel.app/api?username=lyrnoxx&&show_icons=true&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik27r">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyrnoxx">
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lyrnoxx)](https://github.com/ryo-ma/github-profile-trophy)
