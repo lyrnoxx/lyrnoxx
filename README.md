@@ -1,10 +1,7 @@
 ### Hi there 👋
-interemediate programmer
-cs undergrad
-looking for internships
-streak!!!
-<img src ="https://github-readme-stats.vercel.app/api?username=lyrnoxx&&show_icons=true&theme=radical">
 
+<img src ="https://github-readme-stats.vercel.app/api?username=lyrnoxx&&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik27r">
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lyrnoxx)](https://github.com/ryo-ma/github-profile-trophy)
