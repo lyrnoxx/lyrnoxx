@@ -5,11 +5,12 @@
 
 ---
 
-<details>
+<details open="">
 <summary>
   ✨ Tech stack currently using:
 </summary>
    <br>
+<code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a></code>
 <code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
 <code><a href="https://www.typescriptlang.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript"></a></code>
@@ -27,7 +28,7 @@
 </details>
 <br>
 
-<details>
+<details open="">
 <summary>
   🌱 Looking forward to learn:
 </summary>
